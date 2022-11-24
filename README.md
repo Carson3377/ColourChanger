@@ -47,4 +47,4 @@ The JavaScript key methods may be applied:
 --> Need to loop 6 times for 6 random values for the hex colour value from the arrays
 
 
-That's Wrap!
+That's a Wrap!
