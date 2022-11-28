@@ -3,7 +3,7 @@ JavaScript Project --
  
 In this JavaScript project, we're going to create a colour flipper with random colour displays.
 According to Leornardo Maldonado, he explains that --by manipulating the DOM, you have infinite possibilities. You can create applications that update the data of the page without needing a refresh. Also, you can create applications that are customizable by the user and then change the layout of the page without a refresh.-- [Colourchanger]
-{https://carson3377.github.io/ColourChanger/colourflipper.html}
+(https://carson3377.github.io/ColourChanger/colourflipper.html)
 
 Credit: FreeCodeCamp.org
 
